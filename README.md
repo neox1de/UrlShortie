@@ -35,7 +35,7 @@ make sure you have installed these before you start:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/h3li0p4us3-moharami/urlshortie.git
+   git clone https://github.com/neox1de/urlshortie.git
    cd urlshortie
    ```
 
